@@ -1,0 +1,13 @@
+.venv/
+.browser-profile*/
+__pycache__/
+*.pyc
+course-playback.json
+.course-run.lock
+local-config.json
+LOCAL-SETUP.md
+course-check.json
+*.log
+.env
+.env.*
+!.env.example
